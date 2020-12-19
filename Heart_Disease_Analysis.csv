@@ -1,0 +1,304 @@
+age,Gender,Chest Pain Type,Resting Blood Pressure,Serum Cholestoral,Fastin Blood Sugar,restecg,Maximum Heart Rate Achieved,Diagnosis of Heart Disease
+29,Male,Atypical Angina,130,204,<= 120 mg/dl,2,202,< 50% diameter narrowing
+34,Male,Typical Angina,118,182,<= 120 mg/dl,2,174,< 50% diameter narrowing
+34,Female,Atypical Angina,118,210,<= 120 mg/dl,0,192,< 50% diameter narrowing
+35,Female,Non-Anginal Pain,138,183,<= 120 mg/dl,0,182,< 50% diameter narrowing
+35,Male,Non-Anginal Pain,120,198,<= 120 mg/dl,0,130,> 50% diameter narrowing
+35,Male,Non-Anginal Pain,126,282,<= 120 mg/dl,2,156,> 50% diameter narrowing
+35,Male,Atypical Angina,122,192,<= 120 mg/dl,0,174,< 50% diameter narrowing
+37,Male,Asymptomatic,130,250,<= 120 mg/dl,0,187,< 50% diameter narrowing
+37,Female,Asymptomatic,120,215,<= 120 mg/dl,0,170,< 50% diameter narrowing
+38,Male,Typical Angina,120,231,<= 120 mg/dl,0,182,> 50% diameter narrowing
+38,Male,Asymptomatic,138,175,<= 120 mg/dl,0,173,< 50% diameter narrowing
+39,Male,Asymptomatic,140,321,<= 120 mg/dl,2,182,< 50% diameter narrowing
+39,Male,Non-Anginal Pain,118,219,<= 120 mg/dl,0,140,> 50% diameter narrowing
+39,Female,Asymptomatic,94,199,<= 120 mg/dl,0,179,< 50% diameter narrowing
+39,Female,Asymptomatic,138,220,<= 120 mg/dl,0,152,< 50% diameter narrowing
+40,Male,Non-Anginal Pain,110,167,<= 120 mg/dl,2,114,> 50% diameter narrowing
+40,Male,Typical Angina,140,199,<= 120 mg/dl,0,178,< 50% diameter narrowing
+40,Male,Non-Anginal Pain,152,223,<= 120 mg/dl,0,181,> 50% diameter narrowing
+41,Female,Atypical Angina,130,204,<= 120 mg/dl,2,172,< 50% diameter narrowing
+41,Female,Atypical Angina,105,198,<= 120 mg/dl,0,168,< 50% diameter narrowing
+41,Male,Non-Anginal Pain,110,172,<= 120 mg/dl,2,158,> 50% diameter narrowing
+41,Male,Atypical Angina,135,203,<= 120 mg/dl,0,132,< 50% diameter narrowing
+41,Male,Asymptomatic,112,250,<= 120 mg/dl,0,179,< 50% diameter narrowing
+41,Male,Asymptomatic,130,214,<= 120 mg/dl,2,168,< 50% diameter narrowing
+41,Female,Asymptomatic,112,268,<= 120 mg/dl,2,172,< 50% diameter narrowing
+41,Male,Atypical Angina,110,235,<= 120 mg/dl,0,153,< 50% diameter narrowing
+41,Female,Atypical Angina,126,306,<= 120 mg/dl,0,163,< 50% diameter narrowing
+41,Male,Atypical Angina,120,157,<= 120 mg/dl,0,182,< 50% diameter narrowing
+42,Male,Non-Anginal Pain,140,226,<= 120 mg/dl,0,178,< 50% diameter narrowing
+42,Female,Non-Anginal Pain,102,265,<= 120 mg/dl,2,122,< 50% diameter narrowing
+42,Male,Typical Angina,148,244,<= 120 mg/dl,2,178,< 50% diameter narrowing
+42,Male,Asymptomatic,120,240,>120 mg/dl,0,194,< 50% diameter narrowing
+42,Male,Atypical Angina,120,295,<= 120 mg/dl,0,162,< 50% diameter narrowing
+42,Female,Asymptomatic,120,209,<= 120 mg/dl,0,173,< 50% diameter narrowing
+42,Male,Non-Anginal Pain,136,315,<= 120 mg/dl,0,125,> 50% diameter narrowing
+42,Male,Asymptomatic,130,180,<= 120 mg/dl,0,150,< 50% diameter narrowing
+43,Male,Non-Anginal Pain,150,247,<= 120 mg/dl,0,171,< 50% diameter narrowing
+43,Male,Non-Anginal Pain,120,177,<= 120 mg/dl,2,120,> 50% diameter narrowing
+43,Female,Non-Anginal Pain,132,341,>120 mg/dl,2,136,> 50% diameter narrowing
+43,Female,Asymptomatic,122,213,<= 120 mg/dl,0,165,< 50% diameter narrowing
+43,Male,Asymptomatic,130,315,<= 120 mg/dl,0,162,< 50% diameter narrowing
+43,Male,Non-Anginal Pain,132,247,>120 mg/dl,2,143,> 50% diameter narrowing
+43,Male,Non-Anginal Pain,110,211,<= 120 mg/dl,0,161,< 50% diameter narrowing
+43,Male,Non-Anginal Pain,115,303,<= 120 mg/dl,0,181,< 50% diameter narrowing
+44,Male,Atypical Angina,120,263,<= 120 mg/dl,0,173,< 50% diameter narrowing
+44,Male,Asymptomatic,130,233,<= 120 mg/dl,0,179,< 50% diameter narrowing
+44,Male,Non-Anginal Pain,112,290,<= 120 mg/dl,2,153,> 50% diameter narrowing
+44,Male,Atypical Angina,130,219,<= 120 mg/dl,2,188,< 50% diameter narrowing
+44,Male,Non-Anginal Pain,110,197,<= 120 mg/dl,2,177,> 50% diameter narrowing
+44,Male,Asymptomatic,140,235,<= 120 mg/dl,2,180,< 50% diameter narrowing
+44,Female,Asymptomatic,108,141,<= 120 mg/dl,0,175,< 50% diameter narrowing
+44,Male,Atypical Angina,120,220,<= 120 mg/dl,0,170,< 50% diameter narrowing
+44,Female,Asymptomatic,118,242,<= 120 mg/dl,0,149,< 50% diameter narrowing
+44,Male,Asymptomatic,120,226,<= 120 mg/dl,0,169,< 50% diameter narrowing
+44,Male,Non-Anginal Pain,120,169,<= 120 mg/dl,0,144,> 50% diameter narrowing
+45,Male,Non-Anginal Pain,104,208,<= 120 mg/dl,2,148,< 50% diameter narrowing
+45,Male,Non-Anginal Pain,115,260,<= 120 mg/dl,2,185,< 50% diameter narrowing
+45,Female,Atypical Angina,130,234,<= 120 mg/dl,2,175,< 50% diameter narrowing
+45,Male,Atypical Angina,128,308,<= 120 mg/dl,2,170,< 50% diameter narrowing
+45,Female,Atypical Angina,112,160,<= 120 mg/dl,0,138,< 50% diameter narrowing
+45,Female,Non-Anginal Pain,138,236,<= 120 mg/dl,2,152,< 50% diameter narrowing
+45,Male,Non-Anginal Pain,142,309,<= 120 mg/dl,2,147,> 50% diameter narrowing
+45,Male,Typical Angina,110,264,<= 120 mg/dl,0,132,> 50% diameter narrowing
+46,Female,Asymptomatic,142,177,<= 120 mg/dl,2,160,< 50% diameter narrowing
+46,Male,Asymptomatic,150,231,<= 120 mg/dl,0,147,> 50% diameter narrowing
+46,Male,Atypical Angina,101,197,>120 mg/dl,0,156,< 50% diameter narrowing
+46,Female,Atypical Angina,105,204,<= 120 mg/dl,0,172,< 50% diameter narrowing
+46,Female,Non-Anginal Pain,138,243,<= 120 mg/dl,2,152,< 50% diameter narrowing
+46,Male,Non-Anginal Pain,120,249,<= 120 mg/dl,2,144,> 50% diameter narrowing
+46,Male,Non-Anginal Pain,140,311,<= 120 mg/dl,0,120,> 50% diameter narrowing
+47,Male,Asymptomatic,138,257,<= 120 mg/dl,2,156,< 50% diameter narrowing
+47,Male,Asymptomatic,108,243,<= 120 mg/dl,0,152,> 50% diameter narrowing
+47,Male,Non-Anginal Pain,112,204,<= 120 mg/dl,0,143,< 50% diameter narrowing
+47,Male,Non-Anginal Pain,110,275,<= 120 mg/dl,2,118,> 50% diameter narrowing
+47,Male,Asymptomatic,130,253,<= 120 mg/dl,0,179,< 50% diameter narrowing
+48,Male,Atypical Angina,110,229,<= 120 mg/dl,0,168,> 50% diameter narrowing
+48,Female,Asymptomatic,130,275,<= 120 mg/dl,0,139,< 50% diameter narrowing
+48,Male,Atypical Angina,130,245,<= 120 mg/dl,2,180,< 50% diameter narrowing
+48,Male,Non-Anginal Pain,122,222,<= 120 mg/dl,2,186,< 50% diameter narrowing
+48,Male,Non-Anginal Pain,130,256,>120 mg/dl,2,150,> 50% diameter narrowing
+48,Male,Asymptomatic,124,255,>120 mg/dl,0,175,< 50% diameter narrowing
+48,Male,Non-Anginal Pain,124,274,<= 120 mg/dl,2,166,> 50% diameter narrowing
+49,Male,Atypical Angina,130,266,<= 120 mg/dl,0,171,< 50% diameter narrowing
+49,Male,Asymptomatic,120,188,<= 120 mg/dl,0,139,> 50% diameter narrowing
+49,Male,Asymptomatic,118,149,<= 120 mg/dl,2,126,> 50% diameter narrowing
+49,Female,Atypical Angina,134,271,<= 120 mg/dl,0,162,< 50% diameter narrowing
+49,Female,Non-Anginal Pain,130,269,<= 120 mg/dl,0,163,< 50% diameter narrowing
+50,Female,Asymptomatic,120,219,<= 120 mg/dl,0,158,< 50% diameter narrowing
+50,Male,Non-Anginal Pain,150,243,<= 120 mg/dl,2,128,> 50% diameter narrowing
+50,Male,Asymptomatic,140,233,<= 120 mg/dl,0,163,> 50% diameter narrowing
+50,Male,Asymptomatic,129,196,<= 120 mg/dl,0,163,< 50% diameter narrowing
+50,Female,Atypical Angina,120,244,<= 120 mg/dl,0,162,< 50% diameter narrowing
+50,Female,Non-Anginal Pain,110,254,<= 120 mg/dl,2,159,< 50% diameter narrowing
+50,Male,Non-Anginal Pain,144,200,<= 120 mg/dl,2,126,> 50% diameter narrowing
+51,Male,Asymptomatic,110,175,<= 120 mg/dl,0,123,< 50% diameter narrowing
+51,Male,Typical Angina,125,213,<= 120 mg/dl,2,125,< 50% diameter narrowing
+51,Female,Non-Anginal Pain,130,305,<= 120 mg/dl,0,142,> 50% diameter narrowing
+51,Female,Asymptomatic,140,308,<= 120 mg/dl,2,142,< 50% diameter narrowing
+51,Female,Asymptomatic,130,256,<= 120 mg/dl,2,149,< 50% diameter narrowing
+51,Male,Asymptomatic,100,222,<= 120 mg/dl,0,143,< 50% diameter narrowing
+51,Male,Asymptomatic,94,227,<= 120 mg/dl,0,154,< 50% diameter narrowing
+51,Male,Non-Anginal Pain,140,261,<= 120 mg/dl,2,186,< 50% diameter narrowing
+51,Male,Asymptomatic,125,245,>120 mg/dl,2,166,< 50% diameter narrowing
+51,Male,Non-Anginal Pain,140,299,<= 120 mg/dl,0,173,> 50% diameter narrowing
+51,Male,Non-Anginal Pain,140,298,<= 120 mg/dl,0,122,> 50% diameter narrowing
+51,Female,Asymptomatic,120,295,<= 120 mg/dl,2,157,< 50% diameter narrowing
+52,Male,Asymptomatic,172,199,>120 mg/dl,0,162,< 50% diameter narrowing
+52,Male,Atypical Angina,120,325,<= 120 mg/dl,0,172,< 50% diameter narrowing
+52,Male,Non-Anginal Pain,128,255,<= 120 mg/dl,0,161,> 50% diameter narrowing
+52,Male,Atypical Angina,134,201,<= 120 mg/dl,0,158,< 50% diameter narrowing
+52,Male,Typical Angina,118,186,<= 120 mg/dl,2,190,< 50% diameter narrowing
+52,Male,Atypical Angina,128,205,>120 mg/dl,0,184,< 50% diameter narrowing
+52,Male,Typical Angina,152,298,>120 mg/dl,0,178,< 50% diameter narrowing
+52,Male,Asymptomatic,138,223,<= 120 mg/dl,0,169,< 50% diameter narrowing
+52,Male,Non-Anginal Pain,108,233,>120 mg/dl,0,147,< 50% diameter narrowing
+52,Male,Non-Anginal Pain,112,230,<= 120 mg/dl,0,160,> 50% diameter narrowing
+52,Female,Asymptomatic,136,196,<= 120 mg/dl,2,169,< 50% diameter narrowing
+52,Male,Non-Anginal Pain,125,212,<= 120 mg/dl,0,168,> 50% diameter narrowing
+52,Male,Non-Anginal Pain,128,204,>120 mg/dl,0,156,> 50% diameter narrowing
+53,Male,Non-Anginal Pain,140,203,>120 mg/dl,2,155,> 50% diameter narrowing
+53,Male,Asymptomatic,130,197,>120 mg/dl,2,152,< 50% diameter narrowing
+53,Female,Non-Anginal Pain,130,264,<= 120 mg/dl,2,143,< 50% diameter narrowing
+53,Female,Asymptomatic,128,216,<= 120 mg/dl,2,115,< 50% diameter narrowing
+53,Female,Non-Anginal Pain,138,234,<= 120 mg/dl,2,160,< 50% diameter narrowing
+53,Male,Non-Anginal Pain,142,226,<= 120 mg/dl,2,111,< 50% diameter narrowing
+53,Male,Asymptomatic,130,246,>120 mg/dl,2,173,< 50% diameter narrowing
+53,Male,Non-Anginal Pain,123,282,<= 120 mg/dl,0,95,> 50% diameter narrowing
+54,Male,Non-Anginal Pain,140,239,<= 120 mg/dl,0,160,< 50% diameter narrowing
+54,Male,Non-Anginal Pain,124,266,<= 120 mg/dl,2,109,> 50% diameter narrowing
+54,Male,Asymptomatic,125,273,<= 120 mg/dl,2,152,< 50% diameter narrowing
+54,Female,Asymptomatic,135,304,>120 mg/dl,0,170,< 50% diameter narrowing
+54,Male,Non-Anginal Pain,120,188,<= 120 mg/dl,0,113,> 50% diameter narrowing
+54,Male,Asymptomatic,150,232,<= 120 mg/dl,2,165,< 50% diameter narrowing
+54,Male,Atypical Angina,108,309,<= 120 mg/dl,0,156,< 50% diameter narrowing
+54,Male,Non-Anginal Pain,110,239,<= 120 mg/dl,0,126,> 50% diameter narrowing
+54,Male,Asymptomatic,120,258,<= 120 mg/dl,2,147,< 50% diameter narrowing
+54,Female,Asymptomatic,110,214,<= 120 mg/dl,0,158,< 50% diameter narrowing
+54,Female,Atypical Angina,132,288,>120 mg/dl,2,159,< 50% diameter narrowing
+54,Male,Atypical Angina,192,283,<= 120 mg/dl,2,195,> 50% diameter narrowing
+54,Female,Asymptomatic,108,267,<= 120 mg/dl,2,167,< 50% diameter narrowing
+54,Male,Non-Anginal Pain,110,206,<= 120 mg/dl,2,108,> 50% diameter narrowing
+54,Female,Asymptomatic,160,201,<= 120 mg/dl,0,163,< 50% diameter narrowing
+54,Male,Non-Anginal Pain,122,286,<= 120 mg/dl,2,116,> 50% diameter narrowing
+55,Male,Non-Anginal Pain,132,353,<= 120 mg/dl,0,132,> 50% diameter narrowing
+55,Male,Non-Anginal Pain,140,217,<= 120 mg/dl,0,111,> 50% diameter narrowing
+55,Female,Atypical Angina,135,250,<= 120 mg/dl,2,161,< 50% diameter narrowing
+55,Male,Non-Anginal Pain,160,289,<= 120 mg/dl,2,145,> 50% diameter narrowing
+55,Male,Atypical Angina,130,262,<= 120 mg/dl,0,155,< 50% diameter narrowing
+55,Female,Non-Anginal Pain,180,327,<= 120 mg/dl,1,117,> 50% diameter narrowing
+55,Female,Non-Anginal Pain,128,205,<= 120 mg/dl,1,130,> 50% diameter narrowing
+55,Female,Atypical Angina,132,342,<= 120 mg/dl,0,166,< 50% diameter narrowing
+56,Male,Atypical Angina,120,236,<= 120 mg/dl,0,178,< 50% diameter narrowing
+56,Female,Atypical Angina,140,294,<= 120 mg/dl,2,153,< 50% diameter narrowing
+56,Male,Asymptomatic,130,256,>120 mg/dl,2,142,> 50% diameter narrowing
+56,Male,Non-Anginal Pain,125,249,>120 mg/dl,2,144,> 50% diameter narrowing
+56,Female,Non-Anginal Pain,200,288,>120 mg/dl,2,133,> 50% diameter narrowing
+56,Male,Non-Anginal Pain,132,184,<= 120 mg/dl,2,105,> 50% diameter narrowing
+56,Female,Non-Anginal Pain,134,409,<= 120 mg/dl,2,150,> 50% diameter narrowing
+56,Male,Typical Angina,120,193,<= 120 mg/dl,2,162,< 50% diameter narrowing
+56,Male,Non-Anginal Pain,130,283,>120 mg/dl,2,103,> 50% diameter narrowing
+56,Male,Atypical Angina,130,221,<= 120 mg/dl,2,163,< 50% diameter narrowing
+56,Male,Atypical Angina,120,240,<= 120 mg/dl,0,169,< 50% diameter narrowing
+57,Female,Non-Anginal Pain,120,354,<= 120 mg/dl,0,163,< 50% diameter narrowing
+57,Male,Non-Anginal Pain,140,192,<= 120 mg/dl,0,148,< 50% diameter narrowing
+57,Male,Asymptomatic,150,168,<= 120 mg/dl,0,174,< 50% diameter narrowing
+57,Male,Non-Anginal Pain,150,276,<= 120 mg/dl,2,112,> 50% diameter narrowing
+57,Female,Non-Anginal Pain,128,303,<= 120 mg/dl,2,159,< 50% diameter narrowing
+57,Male,Asymptomatic,128,229,<= 120 mg/dl,2,150,> 50% diameter narrowing
+57,Male,Non-Anginal Pain,165,289,>120 mg/dl,2,124,> 50% diameter narrowing
+57,Male,Non-Anginal Pain,132,207,<= 120 mg/dl,0,168,< 50% diameter narrowing
+57,Male,Non-Anginal Pain,152,274,<= 120 mg/dl,0,88,> 50% diameter narrowing
+57,Male,Asymptomatic,150,126,>120 mg/dl,0,173,< 50% diameter narrowing
+57,Male,Non-Anginal Pain,110,201,<= 120 mg/dl,0,126,< 50% diameter narrowing
+57,Male,Atypical Angina,124,261,<= 120 mg/dl,0,141,> 50% diameter narrowing
+57,Male,Atypical Angina,154,232,<= 120 mg/dl,2,164,> 50% diameter narrowing
+57,Male,Non-Anginal Pain,110,335,<= 120 mg/dl,0,143,> 50% diameter narrowing
+57,Female,Non-Anginal Pain,140,241,<= 120 mg/dl,0,123,> 50% diameter narrowing
+57,Male,Non-Anginal Pain,130,131,<= 120 mg/dl,0,115,> 50% diameter narrowing
+57,Female,Atypical Angina,130,236,<= 120 mg/dl,2,174,> 50% diameter narrowing
+58,Female,Typical Angina,150,283,>120 mg/dl,2,162,< 50% diameter narrowing
+58,Male,Atypical Angina,120,284,<= 120 mg/dl,2,160,> 50% diameter narrowing
+58,Male,Asymptomatic,132,224,<= 120 mg/dl,2,173,> 50% diameter narrowing
+58,Female,Asymptomatic,120,340,<= 120 mg/dl,0,172,< 50% diameter narrowing
+58,Male,Asymptomatic,112,230,<= 120 mg/dl,2,165,> 50% diameter narrowing
+58,Male,Non-Anginal Pain,128,216,<= 120 mg/dl,2,131,> 50% diameter narrowing
+58,Male,Non-Anginal Pain,150,270,<= 120 mg/dl,2,111,> 50% diameter narrowing
+58,Male,Asymptomatic,140,211,>120 mg/dl,2,165,< 50% diameter narrowing
+58,Male,Asymptomatic,105,240,<= 120 mg/dl,2,154,< 50% diameter narrowing
+58,Male,Non-Anginal Pain,125,300,<= 120 mg/dl,2,171,> 50% diameter narrowing
+58,Female,Non-Anginal Pain,100,248,<= 120 mg/dl,2,122,< 50% diameter narrowing
+58,Male,Non-Anginal Pain,128,259,<= 120 mg/dl,2,130,> 50% diameter narrowing
+58,Male,Non-Anginal Pain,100,234,<= 120 mg/dl,0,156,> 50% diameter narrowing
+58,Male,Non-Anginal Pain,146,218,<= 120 mg/dl,0,105,> 50% diameter narrowing
+58,Female,Atypical Angina,136,319,>120 mg/dl,2,152,> 50% diameter narrowing
+58,Female,Non-Anginal Pain,130,197,<= 120 mg/dl,0,131,< 50% diameter narrowing
+58,Male,Non-Anginal Pain,114,318,<= 120 mg/dl,1,140,> 50% diameter narrowing
+58,Female,Non-Anginal Pain,170,225,>120 mg/dl,2,146,> 50% diameter narrowing
+58,Male,Atypical Angina,125,220,<= 120 mg/dl,0,144,< 50% diameter narrowing
+59,Male,Non-Anginal Pain,135,234,<= 120 mg/dl,0,161,< 50% diameter narrowing
+59,Male,Asymptomatic,150,212,>120 mg/dl,0,157,< 50% diameter narrowing
+59,Male,Non-Anginal Pain,170,326,<= 120 mg/dl,2,140,> 50% diameter narrowing
+59,Male,Non-Anginal Pain,110,239,<= 120 mg/dl,2,142,> 50% diameter narrowing
+59,Male,Non-Anginal Pain,140,177,<= 120 mg/dl,0,162,> 50% diameter narrowing
+59,Male,Atypical Angina,140,221,<= 120 mg/dl,0,164,< 50% diameter narrowing
+59,Male,Typical Angina,170,288,<= 120 mg/dl,2,159,> 50% diameter narrowing
+59,Female,Non-Anginal Pain,174,249,<= 120 mg/dl,0,143,> 50% diameter narrowing
+59,Male,Typical Angina,178,270,<= 120 mg/dl,2,145,< 50% diameter narrowing
+59,Male,Typical Angina,160,273,<= 120 mg/dl,2,125,> 50% diameter narrowing
+59,Male,Non-Anginal Pain,138,271,<= 120 mg/dl,2,182,< 50% diameter narrowing
+59,Male,Asymptomatic,126,218,>120 mg/dl,0,134,> 50% diameter narrowing
+59,Male,Typical Angina,134,204,<= 120 mg/dl,0,162,> 50% diameter narrowing
+59,Male,Non-Anginal Pain,164,176,>120 mg/dl,2,90,> 50% diameter narrowing
+60,Male,Non-Anginal Pain,130,206,<= 120 mg/dl,2,132,> 50% diameter narrowing
+60,Male,Non-Anginal Pain,117,230,>120 mg/dl,0,160,> 50% diameter narrowing
+60,Male,Non-Anginal Pain,130,253,<= 120 mg/dl,0,144,> 50% diameter narrowing
+60,Male,Non-Anginal Pain,145,282,<= 120 mg/dl,2,142,> 50% diameter narrowing
+60,Male,Asymptomatic,140,185,<= 120 mg/dl,2,155,> 50% diameter narrowing
+60,Male,Non-Anginal Pain,125,258,<= 120 mg/dl,2,141,> 50% diameter narrowing
+60,Female,Non-Anginal Pain,150,258,<= 120 mg/dl,2,157,> 50% diameter narrowing
+60,Female,Asymptomatic,102,318,<= 120 mg/dl,0,160,< 50% diameter narrowing
+60,Male,Non-Anginal Pain,140,293,<= 120 mg/dl,2,170,> 50% diameter narrowing
+60,Female,Non-Anginal Pain,158,305,<= 120 mg/dl,2,161,> 50% diameter narrowing
+60,Female,Asymptomatic,120,178,>120 mg/dl,0,96,< 50% diameter narrowing
+60,Female,Typical Angina,150,240,<= 120 mg/dl,0,171,< 50% diameter narrowing
+61,Male,Asymptomatic,150,243,>120 mg/dl,0,137,< 50% diameter narrowing
+61,Female,Non-Anginal Pain,130,330,<= 120 mg/dl,2,169,> 50% diameter narrowing
+61,Male,Non-Anginal Pain,120,260,<= 120 mg/dl,0,140,> 50% diameter narrowing
+61,Female,Non-Anginal Pain,145,307,<= 120 mg/dl,2,146,> 50% diameter narrowing
+61,Male,Typical Angina,134,234,<= 120 mg/dl,0,145,> 50% diameter narrowing
+61,Male,Non-Anginal Pain,138,166,<= 120 mg/dl,2,125,> 50% diameter narrowing
+61,Male,Non-Anginal Pain,140,207,<= 120 mg/dl,2,138,> 50% diameter narrowing
+61,Male,Non-Anginal Pain,148,203,<= 120 mg/dl,0,161,> 50% diameter narrowing
+62,Female,Non-Anginal Pain,140,268,<= 120 mg/dl,2,160,> 50% diameter narrowing
+62,Male,Non-Anginal Pain,120,267,<= 120 mg/dl,0,99,> 50% diameter narrowing
+62,Female,Non-Anginal Pain,160,164,<= 120 mg/dl,2,145,> 50% diameter narrowing
+62,Male,Asymptomatic,130,231,<= 120 mg/dl,0,146,< 50% diameter narrowing
+62,Female,Asymptomatic,130,263,<= 120 mg/dl,0,97,> 50% diameter narrowing
+62,Female,Non-Anginal Pain,124,209,<= 120 mg/dl,0,163,< 50% diameter narrowing
+62,Male,Atypical Angina,120,281,<= 120 mg/dl,2,103,> 50% diameter narrowing
+62,Female,Non-Anginal Pain,140,394,<= 120 mg/dl,2,157,< 50% diameter narrowing
+62,Female,Non-Anginal Pain,138,294,>120 mg/dl,0,106,> 50% diameter narrowing
+62,Female,Non-Anginal Pain,150,244,<= 120 mg/dl,0,154,> 50% diameter narrowing
+62,Male,Atypical Angina,128,208,>120 mg/dl,2,140,< 50% diameter narrowing
+63,Male,Typical Angina,145,233,>120 mg/dl,2,150,< 50% diameter narrowing
+63,Male,Non-Anginal Pain,130,254,<= 120 mg/dl,2,147,> 50% diameter narrowing
+63,Female,Asymptomatic,135,252,<= 120 mg/dl,2,172,< 50% diameter narrowing
+63,Male,Non-Anginal Pain,130,330,>120 mg/dl,2,132,> 50% diameter narrowing
+63,Female,Non-Anginal Pain,150,407,<= 120 mg/dl,2,154,> 50% diameter narrowing
+63,Female,Atypical Angina,140,195,<= 120 mg/dl,0,179,< 50% diameter narrowing
+63,Female,Non-Anginal Pain,108,269,<= 120 mg/dl,0,169,> 50% diameter narrowing
+63,Male,Non-Anginal Pain,140,187,<= 120 mg/dl,2,144,> 50% diameter narrowing
+63,Female,Non-Anginal Pain,124,197,<= 120 mg/dl,0,136,> 50% diameter narrowing
+64,Male,Typical Angina,110,211,<= 120 mg/dl,2,144,< 50% diameter narrowing
+64,Male,Asymptomatic,140,335,<= 120 mg/dl,0,158,> 50% diameter narrowing
+64,Male,Asymptomatic,125,309,<= 120 mg/dl,0,131,> 50% diameter narrowing
+64,Male,Non-Anginal Pain,120,246,<= 120 mg/dl,2,96,> 50% diameter narrowing
+64,Male,Non-Anginal Pain,145,212,<= 120 mg/dl,2,132,> 50% diameter narrowing
+64,Female,Non-Anginal Pain,180,325,<= 120 mg/dl,0,154,< 50% diameter narrowing
+64,Female,Asymptomatic,140,313,<= 120 mg/dl,0,133,< 50% diameter narrowing
+64,Female,Non-Anginal Pain,130,303,<= 120 mg/dl,0,122,< 50% diameter narrowing
+64,Male,Non-Anginal Pain,128,263,<= 120 mg/dl,0,105,< 50% diameter narrowing
+64,Male,Typical Angina,170,227,<= 120 mg/dl,2,155,< 50% diameter narrowing
+65,Female,Non-Anginal Pain,150,225,<= 120 mg/dl,2,114,> 50% diameter narrowing
+65,Female,Asymptomatic,140,417,>120 mg/dl,2,157,< 50% diameter narrowing
+65,Male,Non-Anginal Pain,120,177,<= 120 mg/dl,0,140,< 50% diameter narrowing
+65,Female,Asymptomatic,155,269,<= 120 mg/dl,0,148,< 50% diameter narrowing
+65,Male,Non-Anginal Pain,110,248,<= 120 mg/dl,2,158,> 50% diameter narrowing
+65,Female,Asymptomatic,160,360,<= 120 mg/dl,2,151,< 50% diameter narrowing
+65,Male,Non-Anginal Pain,135,254,<= 120 mg/dl,2,127,> 50% diameter narrowing
+65,Male,Typical Angina,138,282,>120 mg/dl,2,174,> 50% diameter narrowing
+66,Female,Typical Angina,150,226,<= 120 mg/dl,0,114,< 50% diameter narrowing
+66,Male,Non-Anginal Pain,120,302,<= 120 mg/dl,2,151,< 50% diameter narrowing
+66,Male,Atypical Angina,160,246,<= 120 mg/dl,0,120,> 50% diameter narrowing
+66,Female,Non-Anginal Pain,178,228,>120 mg/dl,0,165,> 50% diameter narrowing
+66,Male,Non-Anginal Pain,112,212,<= 120 mg/dl,2,132,> 50% diameter narrowing
+66,Male,Non-Anginal Pain,160,228,<= 120 mg/dl,2,138,< 50% diameter narrowing
+66,Female,Asymptomatic,146,278,<= 120 mg/dl,2,152,< 50% diameter narrowing
+67,Male,Non-Anginal Pain,160,286,<= 120 mg/dl,2,108,> 50% diameter narrowing
+67,Male,Non-Anginal Pain,120,229,<= 120 mg/dl,2,129,> 50% diameter narrowing
+67,Male,Non-Anginal Pain,125,254,>120 mg/dl,0,163,> 50% diameter narrowing
+67,Female,Asymptomatic,115,564,<= 120 mg/dl,2,160,< 50% diameter narrowing
+67,Male,Non-Anginal Pain,100,299,<= 120 mg/dl,2,125,> 50% diameter narrowing
+67,Female,Asymptomatic,152,277,<= 120 mg/dl,0,172,< 50% diameter narrowing
+67,Male,Non-Anginal Pain,120,237,<= 120 mg/dl,0,71,> 50% diameter narrowing
+67,Female,Non-Anginal Pain,106,223,<= 120 mg/dl,0,142,< 50% diameter narrowing
+67,Male,Asymptomatic,152,212,<= 120 mg/dl,2,150,> 50% diameter narrowing
+68,Male,Asymptomatic,180,274,>120 mg/dl,2,150,> 50% diameter narrowing
+68,Male,Asymptomatic,118,277,<= 120 mg/dl,0,151,< 50% diameter narrowing
+68,Female,Asymptomatic,120,211,<= 120 mg/dl,2,115,< 50% diameter narrowing
+68,Male,Non-Anginal Pain,144,193,>120 mg/dl,0,141,> 50% diameter narrowing
+69,Female,Typical Angina,140,239,<= 120 mg/dl,0,151,< 50% diameter narrowing
+69,Male,Asymptomatic,140,254,<= 120 mg/dl,2,146,> 50% diameter narrowing
+69,Male,Typical Angina,160,234,>120 mg/dl,2,131,< 50% diameter narrowing
+70,Male,Non-Anginal Pain,145,174,<= 120 mg/dl,0,125,> 50% diameter narrowing
+70,Male,Non-Anginal Pain,130,322,<= 120 mg/dl,2,109,> 50% diameter narrowing
+70,Male,Asymptomatic,160,269,<= 120 mg/dl,0,112,> 50% diameter narrowing
+70,Male,Atypical Angina,156,245,<= 120 mg/dl,2,143,< 50% diameter narrowing
+71,Female,Atypical Angina,160,302,<= 120 mg/dl,0,162,< 50% diameter narrowing
+71,Female,Asymptomatic,110,265,>120 mg/dl,2,130,< 50% diameter narrowing
+71,Female,Non-Anginal Pain,112,149,<= 120 mg/dl,0,125,< 50% diameter narrowing
+74,Female,Atypical Angina,120,269,<= 120 mg/dl,2,121,< 50% diameter narrowing
+76,Female,Asymptomatic,140,197,<= 120 mg/dl,1,116,< 50% diameter narrowing
+77,Male,Non-Anginal Pain,125,304,<= 120 mg/dl,2,162,> 50% diameter narrowing
